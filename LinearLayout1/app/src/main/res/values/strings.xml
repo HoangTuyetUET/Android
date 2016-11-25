@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LinearLayout1</string>
+    <string name="radio_Red">Red</string>
+    <string name="radio_White">White</string>
+    <string name="radio_Blue">Blue</string>
+    <string name="btn_SetColor">Set Color</string>
+    <string name="btn_Cancel">Cancel</string>
+</resources>
